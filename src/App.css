@@ -9,3 +9,23 @@
 .header {
   background-color: #61dafb;
 }
+
+.container {
+  display: flex;
+}
+
+.follower-column {
+  background-color: red;
+  width: 400px;
+  height: 800px;
+}
+
+.feed {
+  width: 400px;
+}
+
+.suggested-box {
+  background-color: blue;
+  width: 400px;
+  height: 400px;
+}
