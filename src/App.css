@@ -1,31 +1,31 @@
 .App {
-  text-align: center;
+    text-align: center;
 }
 
 .App-link {
-  color: #61dafb;
+    color: #61dafb;
 }
 
 .header {
-  background-color: #61dafb;
+    background-color: #61dafb;
 }
 
 .container {
-  display: flex;
+    display: flex;
 }
 
 .follower-column {
-  background-color: red;
-  width: 400px;
-  height: 800px;
+    background-color: red;
+    width: 400px;
+    height: 800px;
 }
 
 .feed {
-  width: 400px;
+    width: 400px;
 }
 
 .suggested-box {
-  background-color: blue;
-  width: 400px;
-  height: 400px;
-}
+    background-color: blue;
+    width: 400px;
+    height: 400px;
+} 
